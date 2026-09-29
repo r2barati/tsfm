@@ -13,6 +13,6 @@ The surrounding Markdown, BibTeX, and CSV files track the model taxonomy, benchm
 
 ## Data and generated files
 
-The pilot's source snapshots and completed development outputs are included for replay. Large raw v2 upstream archives, model caches, and the active v2 backtest's unfinished runtime files remain excluded according to the v2 repository's ignore rules; their source locations and hashes are recorded in its manifests. Re-download upstream data from the cited official sources when replaying that study. Third-party dataset and checkpoint terms remain separate from the code license.
+The pilot's source snapshots, non-empty recorded execution logs, and completed development outputs are included for replay. Large raw v2 upstream archives, model caches, and the active v2 backtest's unfinished runtime files remain excluded according to the v2 repository's ignore rules; their source locations and hashes are recorded in its manifests. Re-download upstream data from the cited official sources when replaying that study. Third-party dataset and checkpoint terms remain separate from the code license.
 
 The exported pilot Task Scheduler XML has its machine-specific workspace path replaced with `%PROSPECTIVE_CPU_ROOT%`; use `prospective_cpu/scripts/register_task.ps1` to create a task for a local checkout.
