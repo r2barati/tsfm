@@ -1,0 +1,3 @@
+[submodule "research/tsfm/prospective_v2"]
+	path = research/tsfm/prospective_v2
+	url = https://github.com/r2barati/tsfm-prospective-v2.git

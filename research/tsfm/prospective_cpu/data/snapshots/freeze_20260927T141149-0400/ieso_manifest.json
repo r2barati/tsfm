@@ -1,0 +1,230 @@
+{
+  "files": [
+    {
+      "bytes": 156672,
+      "fetched_at_utc": "2026-09-27T18:12:27+00:00",
+      "last_modified": "Fri, 25 May 2018 14:00:16 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2002.csv",
+      "sha256": "b93a359d126aba55ed67ce621bb15c700f24b779d63319b2e0709574cb64608d",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2002.csv",
+      "year": 2002
+    },
+    {
+      "bytes": 233322,
+      "fetched_at_utc": "2026-09-27T18:12:28+00:00",
+      "last_modified": "Fri, 25 May 2018 14:01:16 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2003.csv",
+      "sha256": "fbb35304a718b011d79a435483606d187fde73b3cf6939de5dff0f1e8cf7e39b",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2003.csv",
+      "year": 2003
+    },
+    {
+      "bytes": 233991,
+      "fetched_at_utc": "2026-09-27T18:12:29+00:00",
+      "last_modified": "Fri, 25 May 2018 14:02:21 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2004.csv",
+      "sha256": "a584cc480c822e55d287b9facf97cdf8be3e929cdb70c3a3402e5b3544e1eca5",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2004.csv",
+      "year": 2004
+    },
+    {
+      "bytes": 233352,
+      "fetched_at_utc": "2026-09-27T18:12:30+00:00",
+      "last_modified": "Fri, 25 May 2018 14:03:26 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2005.csv",
+      "sha256": "deb9825e9991b3f1bcde2a513e11ca2d749c33018abc5393d5458fe617037547",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2005.csv",
+      "year": 2005
+    },
+    {
+      "bytes": 233352,
+      "fetched_at_utc": "2026-09-27T18:12:31+00:00",
+      "last_modified": "Fri, 25 May 2018 14:04:17 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2006.csv",
+      "sha256": "fe999f9520a8fd84f9017aa0d9955eb3a6a43c482521f9ad33a458b3bd544aa4",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2006.csv",
+      "year": 2006
+    },
+    {
+      "bytes": 233352,
+      "fetched_at_utc": "2026-09-27T18:12:32+00:00",
+      "last_modified": "Tue, 29 May 2018 15:25:16 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2007.csv",
+      "sha256": "dce51afc6c28a89a448dfba72f4f24802ce843196cb6700213cd5882ac7331d5",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2007.csv",
+      "year": 2007
+    },
+    {
+      "bytes": 233991,
+      "fetched_at_utc": "2026-09-27T18:12:32+00:00",
+      "last_modified": "Fri, 25 May 2018 14:05:16 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2008.csv",
+      "sha256": "59c24ab48c072a39a4359213f4360da081890e8f1bf7f4e7ea4f42124295baa1",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2008.csv",
+      "year": 2008
+    },
+    {
+      "bytes": 233352,
+      "fetched_at_utc": "2026-09-27T18:12:33+00:00",
+      "last_modified": "Fri, 25 May 2018 14:06:16 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2009.csv",
+      "sha256": "ebba6f3e41c6d086d0f24538b73827b719fe713ae0b6cd4b2432f990162a7c4e",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2009.csv",
+      "year": 2009
+    },
+    {
+      "bytes": 233352,
+      "fetched_at_utc": "2026-09-27T18:12:34+00:00",
+      "last_modified": "Fri, 25 May 2018 14:07:16 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2010.csv",
+      "sha256": "d2beffeb1d9ee291727c0075ea891e98abeaf07904c7431e4f046932627e1e33",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2010.csv",
+      "year": 2010
+    },
+    {
+      "bytes": 233352,
+      "fetched_at_utc": "2026-09-27T18:12:35+00:00",
+      "last_modified": "Fri, 25 May 2018 14:08:21 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2011.csv",
+      "sha256": "20fd0a3a5ed894b93ba4b87e82e72051303b88392eab3431f5a6adbbc48beaa2",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2011.csv",
+      "year": 2011
+    },
+    {
+      "bytes": 233991,
+      "fetched_at_utc": "2026-09-27T18:12:36+00:00",
+      "last_modified": "Fri, 25 May 2018 14:09:19 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2012.csv",
+      "sha256": "660306df43b4b642a33fad3b1e58a50200bf45cc06d071205148f6f138ec9b1b",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2012.csv",
+      "year": 2012
+    },
+    {
+      "bytes": 233352,
+      "fetched_at_utc": "2026-09-27T18:12:37+00:00",
+      "last_modified": "Fri, 25 May 2018 14:10:24 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2013.csv",
+      "sha256": "b5601007ffffbc39304717cbfa88b0ed31cc9c2ffcf4d18f659449b41f5d87b3",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2013.csv",
+      "year": 2013
+    },
+    {
+      "bytes": 233352,
+      "fetched_at_utc": "2026-09-27T18:12:38+00:00",
+      "last_modified": "Fri, 25 May 2018 14:11:18 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2014.csv",
+      "sha256": "9dbfc51ed030a50d1fb8b5b4d5b795c1bc04bd9eb7836250740bdd6b2eab0626",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2014.csv",
+      "year": 2014
+    },
+    {
+      "bytes": 233352,
+      "fetched_at_utc": "2026-09-27T18:12:38+00:00",
+      "last_modified": "Fri, 25 May 2018 14:12:16 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2015.csv",
+      "sha256": "851a950d14a3c02e160f5872885336a75d838159d51b72c26b4656c2895c5aff",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2015.csv",
+      "year": 2015
+    },
+    {
+      "bytes": 233991,
+      "fetched_at_utc": "2026-09-27T18:12:39+00:00",
+      "last_modified": "Fri, 25 May 2018 14:14:34 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2016.csv",
+      "sha256": "7ea0bed3186b2408b949ed31706dd2b0e2e4d328df73ce2d4a0c6cb8dc9888e9",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2016.csv",
+      "year": 2016
+    },
+    {
+      "bytes": 233352,
+      "fetched_at_utc": "2026-09-27T18:12:40+00:00",
+      "last_modified": "Fri, 25 May 2018 14:14:34 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2017.csv",
+      "sha256": "94d506fb7cb0d35564a3a79de86b526292e2447b2f283906feb5085cb6ccea2a",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2017.csv",
+      "year": 2017
+    },
+    {
+      "bytes": 224590,
+      "fetched_at_utc": "2026-09-27T18:12:41+00:00",
+      "last_modified": "Thu, 31 Jan 2019 12:31:17 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2018.csv",
+      "sha256": "0908441efe22aee0543e61d84507bff7ed53ec68033f26bd7b94cd7e856cb328",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2018.csv",
+      "year": 2018
+    },
+    {
+      "bytes": 224590,
+      "fetched_at_utc": "2026-09-27T18:12:42+00:00",
+      "last_modified": "Fri, 31 Jan 2020 12:31:17 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2019.csv",
+      "sha256": "11d78499244b40dff640c926c49d382573d193f34165747bd1c8707c09135929",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2019.csv",
+      "year": 2019
+    },
+    {
+      "bytes": 225200,
+      "fetched_at_utc": "2026-09-27T18:12:42+00:00",
+      "last_modified": "Sun, 31 Jan 2021 12:31:16 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2020.csv",
+      "sha256": "bd85130d5db06d4d226c35543d81c9fdc2b261411de04e58b2f2711415c9495a",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2020.csv",
+      "year": 2020
+    },
+    {
+      "bytes": 224590,
+      "fetched_at_utc": "2026-09-27T18:12:43+00:00",
+      "last_modified": "Mon, 31 Jan 2022 12:31:17 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2021.csv",
+      "sha256": "bd76c7b0ed40b7092c29b9cfc5855fcdfd9a8fbd2c1966da2a155db10772dd99",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2021.csv",
+      "year": 2021
+    },
+    {
+      "bytes": 224590,
+      "fetched_at_utc": "2026-09-27T18:12:44+00:00",
+      "last_modified": "Tue, 31 Jan 2023 12:31:16 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2022.csv",
+      "sha256": "f9b418bfa2f2ba927824c0f386d7d3de7c0cac0092be2c6faf4f0b74ef58c87a",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2022.csv",
+      "year": 2022
+    },
+    {
+      "bytes": 224590,
+      "fetched_at_utc": "2026-09-27T18:12:45+00:00",
+      "last_modified": "Wed, 31 Jan 2024 12:31:16 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2023.csv",
+      "sha256": "bd7492cd1a14329b45fbf2b7d00cb7e70802d30c158458ec08dbe29b76702310",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2023.csv",
+      "year": 2023
+    },
+    {
+      "bytes": 225205,
+      "fetched_at_utc": "2026-09-27T18:12:46+00:00",
+      "last_modified": "Fri, 31 Jan 2025 12:31:17 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2024.csv",
+      "sha256": "aae5bcedb4c666caf5b98d0ef6603b1b9e355f8407e241d796f6763afce7dee1",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2024.csv",
+      "year": 2024
+    },
+    {
+      "bytes": 224565,
+      "fetched_at_utc": "2026-09-27T18:12:47+00:00",
+      "last_modified": "Sat, 31 Jan 2026 12:31:18 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2025.csv",
+      "sha256": "24d5dfabd8854b35acee4af186143d1835d7516c6e82f7ab8ae2797453d4d488",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2025.csv",
+      "year": 2025
+    },
+    {
+      "bytes": 165575,
+      "fetched_at_utc": "2026-09-27T18:12:47+00:00",
+      "last_modified": "Sun, 27 Sep 2026 12:31:17 GMT",
+      "path": "C:\\Users\\Reza\\Documents\\ChatGPT\\TSFM\\research\\tsfm\\prospective_cpu\\data\\snapshots\\freeze_20260927T141149-0400\\ieso\\PUB_Demand_2026.csv",
+      "sha256": "ead1500836bb1aaf88fce7600f1750b787bab8e8a0df3313491b76b3e354add1",
+      "url": "https://reports-public.ieso.ca/public/Demand/PUB_Demand_2026.csv",
+      "year": 2026
+    }
+  ],
+  "source": "IESO PUB_Demand annual CSV"
+}

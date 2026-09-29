@@ -1,0 +1,30 @@
+{
+  "chronos2_small": {
+    "api_response_sha256": "cb92966bad2e7958e1ef8a2f408ad718ef06a53ce2aeb76a33170e7dc862dcd5",
+    "branch_name": "main",
+    "repo_id": "autogluon/chronos-2-small",
+    "resolved_at_utc": "2026-09-27T18:12:49+00:00",
+    "revision": "ddec01313e50b6bc58ebaa92ede81bc24a3d9f9a"
+  },
+  "chronos_bolt_tiny": {
+    "api_response_sha256": "0100445dade8eab82657f616a587127d5baaaf6e6948a79d6f6d7ee3d3293025",
+    "branch_name": "main",
+    "repo_id": "amazon/chronos-bolt-tiny",
+    "resolved_at_utc": "2026-09-27T18:12:48+00:00",
+    "revision": "a0e552de83495b5c28c14c71c374f3e33280b340"
+  },
+  "chronos_t5_tiny": {
+    "api_response_sha256": "39b269d0b271f02147005bef4ef9fcac9b7de3635c5cdd258e752c093273600f",
+    "branch_name": "main",
+    "repo_id": "amazon/chronos-t5-tiny",
+    "resolved_at_utc": "2026-09-27T18:12:49+00:00",
+    "revision": "29d808298f1a62493e7b9a5e08529d0d930fa189"
+  },
+  "ttm_512_week_context": {
+    "api_response_sha256": "e4e5e7c69b46df45101eaaabc166acca6ad0f075a53f568a1d0d059e8dbe134e",
+    "branch_name": "512-48-ft-r2.1",
+    "repo_id": "ibm-granite/granite-timeseries-ttm-r2",
+    "resolved_at_utc": "2026-09-27T18:12:50+00:00",
+    "revision": "b972f0c22190b7502764526004d16e2b4ed39e8c"
+  }
+}

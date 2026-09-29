@@ -1,0 +1,238 @@
+{
+  "Go": [
+    {
+      "full_name": "avelino/awesome-go",
+      "html_url": "https://github.com/avelino/awesome-go",
+      "language": "Go",
+      "rank_at_freeze": 1,
+      "repo_id": 21540759,
+      "search_result_rank": 1,
+      "stars_at_freeze": 185863
+    },
+    {
+      "full_name": "ollama/ollama",
+      "html_url": "https://github.com/ollama/ollama",
+      "language": "Go",
+      "rank_at_freeze": 2,
+      "repo_id": 658928958,
+      "search_result_rank": 2,
+      "stars_at_freeze": 181808
+    },
+    {
+      "full_name": "golang/go",
+      "html_url": "https://github.com/golang/go",
+      "language": "Go",
+      "rank_at_freeze": 3,
+      "repo_id": 23096959,
+      "search_result_rank": 3,
+      "stars_at_freeze": 139053
+    },
+    {
+      "full_name": "kubernetes/kubernetes",
+      "html_url": "https://github.com/kubernetes/kubernetes",
+      "language": "Go",
+      "rank_at_freeze": 4,
+      "repo_id": 20580498,
+      "search_result_rank": 4,
+      "stars_at_freeze": 128049
+    },
+    {
+      "full_name": "microsoft/TypeScript",
+      "html_url": "https://github.com/microsoft/TypeScript",
+      "language": "Go",
+      "rank_at_freeze": 5,
+      "repo_id": 20929025,
+      "search_result_rank": 5,
+      "stars_at_freeze": 111233
+    }
+  ],
+  "Go__query": [
+    {
+      "fetched_at_utc": "2026-09-27T18:12:04+00:00",
+      "order": "desc",
+      "query": "language:Go stars:>10000",
+      "response_sha256": "450f74e96086f18d07c7208dc0f9c9b209521202f7fcc4a29b40155ab6abe0f5",
+      "result_rows": 10,
+      "selection_source": "github.com/search HTML",
+      "sort": "stars",
+      "status_code": 200
+    }
+  ],
+  "JavaScript": [
+    {
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "language": "JavaScript",
+      "rank_at_freeze": 1,
+      "repo_id": 1136590548,
+      "search_result_rank": 1,
+      "stars_at_freeze": 268267
+    },
+    {
+      "full_name": "react/react",
+      "html_url": "https://github.com/react/react",
+      "language": "JavaScript",
+      "rank_at_freeze": 2,
+      "repo_id": 10270250,
+      "search_result_rank": 2,
+      "stars_at_freeze": 250776
+    },
+    {
+      "full_name": "trekhleb/javascript-algorithms",
+      "html_url": "https://github.com/trekhleb/javascript-algorithms",
+      "language": "JavaScript",
+      "rank_at_freeze": 3,
+      "repo_id": 126577260,
+      "search_result_rank": 3,
+      "stars_at_freeze": 196825
+    },
+    {
+      "full_name": "Snailclimb/JavaGuide",
+      "html_url": "https://github.com/Snailclimb/JavaGuide",
+      "language": "JavaScript",
+      "rank_at_freeze": 4,
+      "repo_id": 132464395,
+      "search_result_rank": 4,
+      "stars_at_freeze": 158914
+    },
+    {
+      "full_name": "airbnb/javascript",
+      "html_url": "https://github.com/airbnb/javascript",
+      "language": "JavaScript",
+      "rank_at_freeze": 5,
+      "repo_id": 6498492,
+      "search_result_rank": 5,
+      "stars_at_freeze": 148291
+    }
+  ],
+  "JavaScript__query": [
+    {
+      "fetched_at_utc": "2026-09-27T18:11:59+00:00",
+      "order": "desc",
+      "query": "language:JavaScript stars:>10000",
+      "response_sha256": "cf204dff43db2edaacc21c11bc42e27d6f8b0fce5a638d115b4b7a341e43364c",
+      "result_rows": 10,
+      "selection_source": "github.com/search HTML",
+      "sort": "stars",
+      "status_code": 200
+    }
+  ],
+  "Python": [
+    {
+      "full_name": "public-apis/public-apis",
+      "html_url": "https://github.com/public-apis/public-apis",
+      "language": "Python",
+      "rank_at_freeze": 1,
+      "repo_id": 54346799,
+      "search_result_rank": 1,
+      "stars_at_freeze": 483773
+    },
+    {
+      "full_name": "EbookFoundation/free-programming-books",
+      "html_url": "https://github.com/EbookFoundation/free-programming-books",
+      "language": "Python",
+      "rank_at_freeze": 2,
+      "repo_id": 13491895,
+      "search_result_rank": 2,
+      "stars_at_freeze": 397963
+    },
+    {
+      "full_name": "donnemartin/system-design-primer",
+      "html_url": "https://github.com/donnemartin/system-design-primer",
+      "language": "Python",
+      "rank_at_freeze": 3,
+      "repo_id": 83222441,
+      "search_result_rank": 3,
+      "stars_at_freeze": 372131
+    },
+    {
+      "full_name": "vinta/awesome-python",
+      "html_url": "https://github.com/vinta/awesome-python",
+      "language": "Python",
+      "rank_at_freeze": 4,
+      "repo_id": 21289110,
+      "search_result_rank": 4,
+      "stars_at_freeze": 323504
+    },
+    {
+      "full_name": "practical-tutorials/project-based-learning",
+      "html_url": "https://github.com/practical-tutorials/project-based-learning",
+      "language": "Python",
+      "rank_at_freeze": 5,
+      "repo_id": 88011908,
+      "search_result_rank": 5,
+      "stars_at_freeze": 284922
+    }
+  ],
+  "Python__query": [
+    {
+      "fetched_at_utc": "2026-09-27T18:11:54+00:00",
+      "order": "desc",
+      "query": "language:Python stars:>10000",
+      "response_sha256": "430f7c28aa93c6bd4bc7e1c930c5cc1ed633da4e4c6f52c2637e3a2766e41c67",
+      "result_rows": 10,
+      "selection_source": "github.com/search HTML",
+      "sort": "stars",
+      "status_code": 200
+    }
+  ],
+  "Rust": [
+    {
+      "full_name": "ultraworkers/claw-code",
+      "html_url": "https://github.com/ultraworkers/claw-code",
+      "language": "Rust",
+      "rank_at_freeze": 1,
+      "repo_id": 1197021090,
+      "search_result_rank": 1,
+      "stars_at_freeze": 195297
+    },
+    {
+      "full_name": "clash-verge-rev/clash-verge-rev",
+      "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "language": "Rust",
+      "rank_at_freeze": 2,
+      "repo_id": 721767116,
+      "search_result_rank": 2,
+      "stars_at_freeze": 147766
+    },
+    {
+      "full_name": "farion1231/cc-switch",
+      "html_url": "https://github.com/farion1231/cc-switch",
+      "language": "Rust",
+      "rank_at_freeze": 3,
+      "repo_id": 1031912724,
+      "search_result_rank": 3,
+      "stars_at_freeze": 137473
+    },
+    {
+      "full_name": "openai/codex",
+      "html_url": "https://github.com/openai/codex",
+      "language": "Rust",
+      "rank_at_freeze": 4,
+      "repo_id": 965415649,
+      "search_result_rank": 4,
+      "stars_at_freeze": 126755
+    },
+    {
+      "full_name": "rustdesk/rustdesk",
+      "html_url": "https://github.com/rustdesk/rustdesk",
+      "language": "Rust",
+      "rank_at_freeze": 5,
+      "repo_id": 299354207,
+      "search_result_rank": 5,
+      "stars_at_freeze": 124632
+    }
+  ],
+  "Rust__query": [
+    {
+      "fetched_at_utc": "2026-09-27T18:12:09+00:00",
+      "order": "desc",
+      "query": "language:Rust stars:>10000",
+      "response_sha256": "5747f71dbd939029255c9a0c196e6fee8163ef62639316a3853ed3c8c0c63498",
+      "result_rows": 10,
+      "selection_source": "github.com/search HTML",
+      "sort": "stars",
+      "status_code": 200
+    }
+  ]
+}

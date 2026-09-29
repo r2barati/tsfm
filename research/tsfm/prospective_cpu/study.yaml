@@ -1,0 +1,52 @@
+study_id: tsfm-prospective-cpu-2026
+protocol_version: 1
+timezone: America/Toronto
+setup_date: 2026-09-27
+prospective:
+  start_date: 2026-10-13
+  count: 12
+  local_time: "09:00"
+  weekday: Tuesday
+  week_of_month: second
+  catch_up: true
+  horizons_weeks: [1, 4]
+domains:
+  ieso:
+    source: https://reports-public.ieso.ca/public/Demand/PUB_Demand_<YEAR>.csv
+    id: ontario-demand
+    value_column: Ontario Demand
+    aggregation: arithmetic mean across all hourly market records in Sunday-Saturday week
+    season_length: 52
+  github:
+    search_url: https://api.github.com/search/repositories
+    activity_url: https://api.github.com/repos/{owner}/{repo}/stats/commit_activity
+    languages: [Python, JavaScript, Go, Rust]
+    repositories_per_language: 5
+    aggregation: sum daily commit counts per Sunday-Saturday week
+    season_length: 4
+models:
+  shared:
+    - name: chronos_bolt_tiny
+      repo_id: amazon/chronos-bolt-tiny
+      interface: chronos_bolt
+    - name: chronos_t5_tiny
+      repo_id: amazon/chronos-t5-tiny
+      interface: chronos_t5
+    - name: chronos2_small
+      repo_id: autogluon/chronos-2-small
+      interface: chronos2
+    - name: seasonal_naive
+      interface: seasonal_naive
+    - name: autoets
+      interface: autoets
+  ieso_only:
+    - name: ttm_512_week_context
+      repo_id: ibm-granite/granite-timeseries-ttm-r2
+      interface: ttm
+      context_length: 512
+      resolution: weekly
+probabilistic_quantiles: [0.1, 0.5, 0.9]
+primary_metric: MASE
+mase_season_length: 1
+github_history_limit_weeks: 52
+minimum_context_weeks: 26

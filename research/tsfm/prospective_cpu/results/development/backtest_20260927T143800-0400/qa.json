@@ -1,0 +1,150 @@
+{
+  "ieso": {
+    "hourly_records": 213960,
+    "daily_dates": 8916,
+    "daily_record_count_min": 1,
+    "daily_record_count_max": 24,
+    "daily_dates_not_24_records": [
+      "2025-05-01",
+      "2026-09-27"
+    ],
+    "weeks_total": 1275,
+    "weeks_eligible": 1273,
+    "weeks_incomplete": 2,
+    "weeks_missing_or_incomplete": [
+      "2002-04-28",
+      "2026-09-27"
+    ],
+    "weeks_with_one_missing_hour_included": [
+      "2025-04-27"
+    ],
+    "dst_probe": {
+      "2024-03-10": 24,
+      "2024-11-03": 24,
+      "2025-03-09": 24,
+      "2025-11-02": 24
+    }
+  },
+  "github": {
+    "affaan-m/ECC": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "airbnb/javascript": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "avelino/awesome-go": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "clash-verge-rev/clash-verge-rev": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "donnemartin/system-design-primer": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "EbookFoundation/free-programming-books": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "farion1231/cc-switch": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "golang/go": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "kubernetes/kubernetes": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "microsoft/TypeScript": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "ollama/ollama": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "openai/codex": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "practical-tutorials/project-based-learning": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "public-apis/public-apis": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "react/react": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "rustdesk/rustdesk": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "Snailclimb/JavaGuide": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "trekhleb/javascript-algorithms": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "ultraworkers/claw-code": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    },
+    "vinta/awesome-python": {
+      "weeks_returned": 52,
+      "weeks_complete": 51,
+      "missing_weeks": [],
+      "latest_complete_week": "2026-09-20"
+    }
+  }
+}

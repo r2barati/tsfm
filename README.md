@@ -48,3 +48,7 @@ The intention of this repository is to make it easier to use and demonstrate IBM
 
 
 IBM Public Repository Disclosure: All content in this repository including code has been provided by IBM under the associated open source software license and IBM is under no obligation to provide enhancements, updates, or support. IBM developers produced this code as an open source project (not as an IBM product), and IBM makes no assertions as to the level of quality nor security, and will not be maintaining this code going forward.
+
+## Independent TSFM research
+
+This repository also tracks independent time-series foundation model research and experiment artifacts under [`research/tsfm`](research/tsfm/README.md). These studies are separate from the IBM TSFM library and do not imply IBM authorship or endorsement.

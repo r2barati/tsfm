@@ -1,0 +1,131 @@
+{
+  "fitted_at": "2026-09-27T14:11:49.154810-04:00",
+  "rules": {
+    "github:EbookFoundation/free-programming-books": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 4.882342574827835
+    },
+    "github:Snailclimb/JavaGuide": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 3.3423058638339636
+    },
+    "github:affaan-m/ECC": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 5.560563273812939
+    },
+    "github:airbnb/javascript": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 0.6931471805599453
+    },
+    "github:avelino/awesome-go": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 3.586979159878397
+    },
+    "github:clash-verge-rev/clash-verge-rev": {
+      "lower_q01": 2.1910133173369406,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 4.488067936651274
+    },
+    "github:donnemartin/system-design-primer": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 1.4451858789480823
+    },
+    "github:farion1231/cc-switch": {
+      "lower_q01": 2.7403194616709956,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 4.409684855009235
+    },
+    "github:golang/go": {
+      "lower_q01": 3.1639683918645973,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 4.677393488170605
+    },
+    "github:kubernetes/kubernetes": {
+      "lower_q01": 3.4657359027997265,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 5.6884955938646975
+    },
+    "github:microsoft/TypeScript": {
+      "lower_q01": 0.6931471805599453,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 4.5731142132544695
+    },
+    "github:ollama/ollama": {
+      "lower_q01": 1.354025100551105,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 3.827695322413076
+    },
+    "github:openai/codex": {
+      "lower_q01": 3.1934396596813226,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 5.939408898979284
+    },
+    "github:practical-tutorials/project-based-learning": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 1.9356005054539456
+    },
+    "github:public-apis/public-apis": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 4.016342437983811
+    },
+    "github:react/react": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 3.714166597095403
+    },
+    "github:rustdesk/rustdesk": {
+      "lower_q01": 1.7005986908310775,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 4.006671590693336
+    },
+    "github:trekhleb/javascript-algorithms": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 1.791759469228055
+    },
+    "github:ultraworkers/claw-code": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 5.743511435323558
+    },
+    "github:vinta/awesome-python": {
+      "lower_q01": 0.0,
+      "n_historical_weeks": 51,
+      "scale": "log1p",
+      "upper_q99": 5.039560060589643
+    },
+    "ieso:ontario-demand": {
+      "lower_q01": 13340.05619047619,
+      "n_historical_weeks": 1273,
+      "scale": "identity",
+      "upper_q99": 20062.771904761903
+    }
+  }
+}
